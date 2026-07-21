@@ -73,5 +73,15 @@
     "blurb": "Chasing 16 sunrises over nominal software. Orbiting momentum.",
     "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJGMYv4H0U3BzoL0dnZhmJBGaYk3JLUapuRAFteKj2VYr_McnJZ=s288-c-no",
     "links": [{ "url": "https://kirbydoestech.dev", "type": "referred" }]
+  },
+   {
+    "name": "Fouad Hammani",
+    "website": "https://fouja.github.io/Portfolio/",
+    "role": "Software AI Engineer",
+    "location": "Ottawa, ON",
+    "tags": ["Full-stack", "ai", "Multimodel RAG", "typescript", "React.js", "Django", "postgresql", "sdd", "Machine learning ", "DeepLearning"],
+    "blurb": "The fourth industrial revolution is explained here",
+    "avatar": "![yagami.png](https://github.com/user-attachments/assets/4f1eeed9-65d2-411e-a84f-5aa1e312881c)",
+    "links": [{ "url": "https://kirbydoestech.dev", "type": "referred" }]
   }
 ]
